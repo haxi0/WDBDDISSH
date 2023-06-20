@@ -1,4 +1,4 @@
-# Doesn't work yet, please ignore
+# Used for DirtyJIT, the info below is from the og WDBDDISSH repo
 
 Doesn't work: the image mounts and loads the launchd jobs, but the launchd jobs can only refer to binaries on the DeveloperDiskImage.
 
